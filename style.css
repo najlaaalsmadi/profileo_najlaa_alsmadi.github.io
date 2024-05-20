@@ -530,7 +530,8 @@ margin-left: 550px;
           background-color: #333;
           width:auto;
           padding: 20px 0; /* التباعد الداخلي */
-
+          display: flex;
+          flex-direction: column;
          
         }
         .footer ul{
