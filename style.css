@@ -529,6 +529,8 @@ margin-left: 550px;
          .footer{
           background-color: #333;
           width:auto;
+          padding: 20px 0; /* التباعد الداخلي */
+
          
         }
         .footer ul{
