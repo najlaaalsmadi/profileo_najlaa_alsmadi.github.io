@@ -532,6 +532,7 @@ margin-left: 550px;
           padding: 20px 0; /* التباعد الداخلي */
           display: flex;
           flex-direction: column;
+          align-items: center;
          
         }
         .footer ul{
@@ -700,7 +701,7 @@ margin-left: 550px;
           width: auto;
           display: flex;
           flex-direction: column;
-          
+          align-items: center;
 
          
         }
