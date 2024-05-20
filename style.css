@@ -698,6 +698,8 @@ margin-left: 550px;
           background-color: #333;
           width: auto;
           display: flex;
+          flex-direction: column;
+          
 
          
         }
